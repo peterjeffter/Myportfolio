@@ -2,10 +2,9 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/<repository-name>",
+  "homepage": "https://peterjeffter.github.io/Myportfolio/",
   "dependencies": {
     "cra-template": "1.2.0",
-    "git": "^0.1.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
@@ -37,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.3.0"
   }
 }
